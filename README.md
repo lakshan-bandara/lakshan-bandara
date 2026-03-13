@@ -22,10 +22,18 @@
 
 ---
 
-### 📊 Top Languages
+### 📊 Dynamic Update (by ProfilePulse)
+<!-- PROFILE_PULSE:START -->
+*(Stats will be automatically updated here by GitHub Actions)*
+<!-- PROFILE_PULSE:END -->
+
+---
+
+### 📈 Top Languages & Stats
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-bandara&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=lakshan-bandara&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
 
 ---
 
@@ -37,3 +45,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshan-bandara)
 
 </div>
+
+<br/>
+
+<p align="center">
+  Developed by <b>Lakshan</b>
+</p>
