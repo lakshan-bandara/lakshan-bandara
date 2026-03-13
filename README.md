@@ -24,6 +24,10 @@
 
 ### 📊 Dynamic Update (by ProfilePulse)
 <!-- PROFILE_PULSE:START -->
+### 🔔 Notification
+> [!TIP]
+> **Dynamic Notification:** Welcome to my profile! I am currently open for new collaborations. 🚀
+
 ### 📊 GitHub Stats
 - ⭐ **Total Stars:** 120
 - 🚀 **Total Commits:** 450
@@ -33,7 +37,7 @@
 - 📍 **Location:** Colombo, Sri Lanka
 - 🌡️ **Status:** Sunny, 28°C
 
-*Last updated on: 2026-03-13 20:58:59*
+*Last updated on: 2026-03-13 21:06:45*
 <!-- PROFILE_PULSE:END -->
 
 ---
