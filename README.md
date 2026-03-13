@@ -24,7 +24,16 @@
 
 ### 📊 Dynamic Update (by ProfilePulse)
 <!-- PROFILE_PULSE:START -->
-*(Stats will be automatically updated here by GitHub Actions)*
+### 📊 GitHub Stats
+- ⭐ **Total Stars:** 120
+- 🚀 **Total Commits:** 450
+- 📦 **Repositories:** 15
+
+### 🌤️ Current Weather
+- 📍 **Location:** Colombo, Sri Lanka
+- 🌡️ **Status:** Sunny, 28°C
+
+*Last updated on: 2026-03-13 20:58:59*
 <!-- PROFILE_PULSE:END -->
 
 ---
