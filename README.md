@@ -26,7 +26,9 @@
 <!-- PROFILE_PULSE:START -->
 ### 🔔 Notification
 > [!TIP]
-> **Dynamic Notification:** Welcome to my profile! I am currently open for new collaborations. 🚀
+> **Featured Update:** Check out my latest project below!
+> 
+> [![Banner](https://ik.imagekit.io/bcd8ygetu/lakshan%20bandara.jpg)](https://github.com/lakshan-bandara)
 
 ### 📊 GitHub Stats
 - ⭐ **Total Stars:** 120
@@ -37,7 +39,7 @@
 - 📍 **Location:** Colombo, Sri Lanka
 - 🌡️ **Status:** Sunny, 28°C
 
-*Last updated on: 2026-03-13 21:06:45*
+*Last updated on: 2026-03-13 21:20:58*
 <!-- PROFILE_PULSE:END -->
 
 ---
