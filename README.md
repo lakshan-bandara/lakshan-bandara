@@ -4,17 +4,12 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn)
 
-### 👁️ Profile Views
-![Views](https://komarev.com/ghpvc/?username=lakshan-bandara&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
----
-
 ### 🛠 Skills & Technologies
 <br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,vscode,github,npm&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,vscode,github,npm&perline=10" />
   </a>
 </p>
 
@@ -22,33 +17,14 @@
 
 ---
 
-### 📊 Dynamic Update (by ProfilePulse)
-<!-- PROFILE_PULSE:START -->
-### 🔔 Notification
-> [!TIP]
-> **Featured Update:** Check out my latest project below!
-> 
-> [![Banner](https://ik.imagekit.io/bcd8ygetu/lakshan%20bandara.jpg)](https://github.com/lakshan-bandara)
-
-### 📊 GitHub Stats
-- ⭐ **Total Stars:** 120
-- 🚀 **Total Commits:** 450
-- 📦 **Repositories:** 15
-
-### 🌤️ Current Weather
-- 📍 **Location:** Colombo, Sri Lanka
-- 🌡️ **Status:** Sunny, 28°C
-
-*Last updated on: 2026-03-18 06:44:24*
-<!-- PROFILE_PULSE:END -->
-
----
-
 ### 📈 Top Languages & Stats
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-bandara&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=lakshan-bandara&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
+---
+
+### 👁️ Profile Views
+![Views](https://komarev.com/ghpvc/?username=lakshan-bandara&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
